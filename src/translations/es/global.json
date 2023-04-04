@@ -1,0 +1,17 @@
+{
+  "global":{
+  "home": {
+    "message": "Bienvenido a la pagina principal",
+    "currentLang": "Idioma Actual:"
+  },
+  "changeLang": {
+    "button": "Cambiar idioma",
+    "message": "El idioma ha sido cambiado."
+  },
+  "languages": {
+    "en": "English",
+    "es": "Spanish",
+    "tr": "Türkçe"
+  }
+}
+}
